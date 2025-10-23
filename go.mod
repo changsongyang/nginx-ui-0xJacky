@@ -35,6 +35,7 @@ require (
 	github.com/nikoksr/notify v1.3.0
 	github.com/nxadm/tail v1.4.11
 	github.com/oschwald/geoip2-golang v1.13.0
+	github.com/oschwald/geoip2-golang/v2 v2.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/pquerna/otp v1.5.0
 	github.com/pretty66/websocketproxy v0.0.0-20220507015215-930b3a686308
